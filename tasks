@@ -1,2 +1,2 @@
 *
-print 'abc'
+urllib2.urlopen('http://www.google.com')
