@@ -1,6 +1,2 @@
 08-00-27-BD-EA-09
-import tkMessageBox
-tkMessageBox.showinfo("Say Hello", "Hello World")
---------
-*
-print 'tkinter'
+details
