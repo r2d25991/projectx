@@ -1,2 +1,8 @@
 08-00-27-BD-EA-09
-::details
+print 'for me'
+--------
+2123123123123
+print 'not for me'
+--------
+*
+print 'for all'
