@@ -1,1 +1,3 @@
-nt '__'*3
+*
+print 'abc'
+print 'cda'
