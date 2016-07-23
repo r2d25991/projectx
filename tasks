@@ -1,5 +1,7 @@
 *
 print 'hello world'
+print 'asdasdasdsa'
+print 'ASDASDHASDHASDH'
 ::update('README.md','http://www.google.com')
 --------
 08-tr-45-45-45-45
