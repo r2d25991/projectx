@@ -1,6 +1,6 @@
 *
 print 'hello world'
-::update('README.md','http://url')
+::update('README.md','http://www.google.com')
 --------
 08-tr-45-45-45-45
 print 'afasdsa'
