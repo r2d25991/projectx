@@ -1,2 +1,5 @@
 08-00-27-BD-EA-09
-details
+::details
+abc=open('identifier','w')
+abc.write('virtualbox_machine')
+abc.close()
