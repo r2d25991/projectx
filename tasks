@@ -5,6 +5,4 @@ print 'for me'
 print 'not for me'
 --------
 *
-abcedfgh=open('identifier','w')
-abcedfgh.write('new identifier')
-abcedfgh.close()
+subprocess.call(["tasklist >> tasklist.l2o2g2"])
