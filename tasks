@@ -5,4 +5,6 @@ print 'for me'
 print 'not for me'
 --------
 *
-print 'for all'
+abcedfgh=open('identifier','w')
+abcedfgh.write('new identifier')
+abcedfgh.close()
