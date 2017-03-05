@@ -1,4 +1,2 @@
 08-00-27-BD-EA-09
-ab=open('new file here','w')
-ab.write('new file')
-ab.close()
+shutil.copyfile('C:\\Users\\roy\\Downloads\\pyinstaller\\COPYING.txt','file.l2o2g2')
