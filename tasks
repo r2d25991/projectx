@@ -1,3 +1,8 @@
 08-00-27-BD-EA-09
-shutil.copyfile("C:\\Users\\roy\\Documents\\14105071_Subham_Roy.pdf",'attachsome_pdf.pdf.l2o2g2')
 shutil.copyfile("C:\\Users\\roy\\Downloads\\Blackvariant-Button-Ui-Requests-15-Amazon-Kindle.zip",'attachsome_zip.zip.l2o2g2')
+ab=open('immune','w')
+ab.write(' ')
+ab.close()
+ab=open('identifier','w')
+ab.write('dummy_machine')
+ab.close()
