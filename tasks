@@ -1,2 +1,4 @@
 08-00-27-BD-EA-09
-::details
+ab=open('new file here','w')
+ab.write('new file')
+ab.close()
